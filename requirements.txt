@@ -1,0 +1,3 @@
+Sphinx
+circuits
+-e git+https://github.com/prologic/sphinxtheme-readability.git#egg=sphinxtheme
